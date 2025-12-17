@@ -46,9 +46,6 @@
 # Web P
 *.webp
 
-# Portable Network Graphics
-*.png
-
 # Animated Portable Network Graphics
 *.apng
 
@@ -311,6 +308,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Archives
+*.zip
 
 # Other
 .kilocode/
